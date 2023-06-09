@@ -1,16 +1,35 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/43679743/210630572-f4a4fe59-63a4-4088-b7ed-09f5cf5f313a.png" width="200px" /></h1>
-<p align="center"> O projeto se chama AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celular, tablets e desktops.</p>
+<h1 align="center">AluraPlay</h1>
+<p align="center">O projeto se chama AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celular, tablets e desktops.</p>
 <div align="center">
-<img src="https://cdn1.gnarususercontent.com.br/1/141059/61a7558e-9485-404a-b8ef-6f0a09afcf80.png" width="75%" /> <br>
-<img src="https://cdn1.gnarususercontent.com.br/1/141059/39363f61-aa6d-454e-9851-7c9bb07580cd.png" width="50%" /> <br>
-<img src="https://cdn1.gnarususercontent.com.br/1/141059/69289526-41b5-43de-87ba-b1f494d92fe8.png" width="25%" /> <br>
-
-
+<img src="https://github.com/Luis-Emanuel/AluraPlay/blob/main/readme/gif.gif?raw=true"  />
 </div>	
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## ✔️ Técnicas e tecnologias utilizadas
+
+-`HTML`: Utilizamos o HTML de forma semântica e bem estruturada buscando o melhor desempenho para os buscadores 
+
+-`CSS`: CSS é um meio de definir estilos para páginas web. Ele pode ser usado para modificar a aparência da mesma, como cor das letras, o tamanho dos textos, os fundos ou até mesmo mover elementos para dentro e fora do site.
+
+-`Flex box`: Utilizamos Flex box pois ela fornece controle sobre a direcionalidade, alinhamento, tamanho, ordem e espaçamento dos itens dentro delas. 
+
+-`BEM`: É uma convenção de nomenclatura para nomes de classe CSS, que fornece contexto sobre o propósito e a estrutura de diferentes elementos da interface do usuário.
+
+-`Grids`: oferecem especificações de coluna mais detalhadas do que flexboxes, permitindo maior controle sobre posicionamento e espaçamento
+
+-`Media query`: Aplicamos esse tipo de estimação usada na linguagem de marcação Cascading Style Sheets (CSS) para aplicar estilos a uma página dependendo das características da tela que está exibindo a mesma. Essas estimativas são expressões escritas em conjunto com os parâmetros @media e geralmente contém instruções sobre como o layout deve ser personalizado por exemplo em dispositivos móveis ou computadores
+
+    
+## 🔨 Funcionalidades do projeto
+
+<p align="justify">O projeto se chama AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celular, tablets e desktops. Atualmente e muito importa que um mesmo site possa ser acessado em diferentes tamanhos tela e o que possibilitou isso foi a utilização do Flexbox que são um conjunto de propriedades que permitem deixar o layout ajustável para diversas telas e deixando-as mais moderna.</p>
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://alura-play-ivory.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://alura-play-ivory.vercel.app/#).
+
+## 📷FOTOS DO PROJETO
+<div align="center">
+<img width="90%" src="https://github.com/Luis-Emanuel/AluraPlay/blob/main/readme/img.png?raw=true"/>
+<hr> 
+<img width="90%" src="https://github.com/Luis-Emanuel/AluraPlay/blob/main/readme/img2.png?raw=true"/>
+</div>
